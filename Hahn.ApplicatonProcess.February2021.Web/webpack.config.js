@@ -1,4 +1,4 @@
-/// <binding BeforeBuild='Run - Development' />
+/// <binding />
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
@@ -16,7 +16,7 @@ const when = (condition, config, negativeConfig) =>
 
 // primary config:
 //const outDir = path.resolve(__dirname, project.platform.output);
-const outDir = path.resolve(__dirname, 'wwwroot/dist');
+const outDir = path.resolve(__dirname, 'wwwroot');
 const srcDir = path.resolve(__dirname, 'src');
 const baseUrl = '';
 
@@ -57,8 +57,10 @@ module.exports = ({ production } = {}, {extractCss, analyze, tests, hmr, port, h
   output: {
     path: outDir,
     publicPath: baseUrl,
-    filename: production ? '[name].[chunkhash].bundle.js' : '[name].[hash].bundle.js',
-    sourceMapFilename: production ? '[name].[chunkhash].bundle.map' : '[name].[hash].bundle.map',
+    //filename: production ? '[name].[chunkhash].bundle.js' : '[name].[hash].bundle.js',
+    filename: 'bundle.js',
+    //sourceMapFilename: production ? '[name].[chunkhash].bundle.map' : '[name].[hash].bundle.map',
+    sourceMapFilename: 'bundle.map',
     chunkFilename: production ? '[name].[chunkhash].chunk.js' : '[name].[hash].chunk.js'
   },
   optimization: {

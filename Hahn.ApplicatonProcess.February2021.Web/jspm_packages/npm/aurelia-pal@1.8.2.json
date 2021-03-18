@@ -1,0 +1,9 @@
+{
+  "main": "aurelia-pal.js",
+  "format": "amd",
+  "meta": {
+    "*.json": {
+      "format": "json"
+    }
+  }
+}

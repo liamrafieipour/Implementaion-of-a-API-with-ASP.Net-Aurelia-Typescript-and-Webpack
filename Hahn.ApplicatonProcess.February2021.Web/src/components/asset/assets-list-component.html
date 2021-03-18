@@ -1,0 +1,26 @@
+<template>
+  <div class="row" style="padding: 10px;">
+    <button class="btn btn-primary shiny pull-left" id="BtnCreate" name="BtnCreate" click.trigger="btnNewClick()" type="button"><i class="fa fa-plus"></i>  New</button>
+  </div>
+  <div class="row" style="margin-top: 10px">
+    <table class="table table-striped" aurelia-table="data.bind: assets; display-data.bind: $displayData">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Country Of Department</th>
+          <th>E-Mail Of Department</th>
+          <th>Purchase Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr repeat.for="asset of $displayData">
+          <td>${asset.Name}</td>
+          <td>${asset.CountryOfDepartment}</td>
+          <td><a href="mailto:${user.email}">${asset.EMailAdressOfDepartment}</a></td>
+          <td>${asset.PurchaseDate}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</template>

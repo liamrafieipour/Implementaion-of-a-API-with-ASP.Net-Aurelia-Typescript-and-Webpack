@@ -66,12 +66,5 @@ C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProces
 C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Web.RazorAssemblyInfo.cache
 C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Web.RazorAssemblyInfo.cs
 C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Web.Views.dll
-C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Web.Views.pdb
-C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Web.TagHelpers.input.cache
-C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Web.TagHelpers.output.cache
-C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Web.RazorCoreGenerate.cache
-C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\obj\Debug\net5.0\Razor\Views\SpaIndex\Index.cshtml.g.cs
-C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Web.RazorTargetAssemblyInfo.cs
-C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Web.Views.pdb
 C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\bin\Debug\net5.0\package-lock.json
 C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Web\bin\Debug\net5.0\stats.json

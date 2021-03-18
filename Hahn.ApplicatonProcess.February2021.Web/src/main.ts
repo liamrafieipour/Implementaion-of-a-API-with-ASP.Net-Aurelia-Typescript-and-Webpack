@@ -6,8 +6,10 @@ export function configure(aurelia: Aurelia): void {
   aurelia.use
     .standardConfiguration()
     .feature(PLATFORM.moduleName('resources/index'));
+    
 
   aurelia.use.developmentLogging(environment.debug ? 'debug' : 'warn');
+  aurelia.use.plugin(PLATFORM.moduleName('au-table'));
 
   if (environment.testing) {
     aurelia.use.plugin(PLATFORM.moduleName('aurelia-testing'));
