@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oB9UKZI9kpbP4g9Jo2hKyJne/2wn6Op+FDcTepMVnxbsmxNyIwParJwtQwFU0Ct3DR9MqVzoCU/k4qADjokESw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hooman\\Desktop\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.February2021.Domain\\Hahn.ApplicatonProcess.February2021.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hooman\\.nuget\\packages\\fluentvalidation\\9.5.2\\fluentvalidation.9.5.2.nupkg.sha512",
+    "C:\\Users\\Hooman\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.2\\fluentvalidation.aspnetcore.9.5.2.nupkg.sha512",
+    "C:\\Users\\Hooman\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.2\\fluentvalidation.dependencyinjectionextensions.9.5.2.nupkg.sha512",
+    "C:\\Users\\Hooman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

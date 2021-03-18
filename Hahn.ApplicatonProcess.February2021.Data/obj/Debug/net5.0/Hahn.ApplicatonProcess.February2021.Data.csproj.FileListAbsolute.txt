@@ -1,0 +1,15 @@
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.deps.json
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.dll
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\bin\Debug\net5.0\ref\Hahn.ApplicatonProcess.February2021.Data.dll
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.pdb
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Domain.dll
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Domain.pdb
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.csprojAssemblyReference.cache
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.AssemblyInfoInputs.cache
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.AssemblyInfo.cs
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.csproj.CopyComplete
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.dll
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\obj\Debug\net5.0\ref\Hahn.ApplicatonProcess.February2021.Data.dll
+C:\Users\Hooman\Desktop\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.February2021.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.February2021.Data.pdb
